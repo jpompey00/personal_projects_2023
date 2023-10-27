@@ -16,6 +16,8 @@ public class CLI {
         CLIScript(Integer.parseInt(input));
     }
 
+    //This script will handle interacting with all the separate objects from the different
+    //projects that will be worked on.
     public void CLIScript(int option){
 
         if(option == 1){
